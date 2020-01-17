@@ -1,3 +1,8 @@
+/*
+  	By : Neeraj Sharma
+   	Roll no. : 19HCS4037
+   	Description : Binary search with and without recursion
+*/
 #include<iostream>
 #include<algorithm>
 using namespace std;
